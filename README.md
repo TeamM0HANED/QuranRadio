@@ -56,6 +56,10 @@ You can run the website by opening `index.html` in your browser.
 ## 📬 تواصل معي | Contact Me
 
 📢 لمزيد من المعلومات أو الاقتراحات، تواصل معي عبر واتساب:
+<p align="center">
+  <a href="https://wa.me/201119233458">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
 
 ---
@@ -63,6 +67,7 @@ You can run the website by opening `index.html` in your browser.
 🎉 **شكراً لزيارتك! لا تنسَ دعم المشروع والمشاركة!**
 
 ---
-برمجة وتطوير Team Mohaned- **برمجة وتطوير:** [Team Mohaned](https://www.teammohaned.icu/)
+- **برمجة وتطوير:** [Team Mohaned](https://teammohaned.icu/)
+
 
 
