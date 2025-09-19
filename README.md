@@ -60,6 +60,12 @@ You can run the website by opening `index.html` in your browser.
   <a href="https://wa.me/201119233458">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  
+## 📲 تابعونا على وسائل التواصل الاجتماعي 🌐
+  <a href="https://www.tiktok.com/@team_m0haned">
+    <img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+
 
 
 ---
@@ -68,6 +74,7 @@ You can run the website by opening `index.html` in your browser.
 
 ---
 - **برمجة وتطوير:** [Team Mohaned](https://teammohaned.icu/)
+
 
 
 
