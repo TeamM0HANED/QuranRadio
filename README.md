@@ -48,8 +48,7 @@ The website contains Quran radio stations, including:
 
 ### ▶️ تشغيل المشروع | Run the Project
 
-يمكنك تشغيل الموقع بسهولة عن طريق فتح `index.html` في متصفحك.
-You can run the website by opening `index.html` in your browser.
+
 
 ---
 
@@ -63,7 +62,7 @@ You can run the website by opening `index.html` in your browser.
   
 ## 📲 تابعونا | Follow Us
 
-🔗 للمزيد زوروا صفحاتنا على السوشيال ميديا
+🔗 صفحاتنا على السوشيال ميديا
 
  <a href="https://www.youtube.com/@team_mohaned">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -85,6 +84,7 @@ You can run the website by opening `index.html` in your browser.
 ---
 
 - <b>برمجة وتطوير:</b> <a href="https://teammohaned.icu/" target="_blank">Team Mohaned</a>
+
 
 
 
