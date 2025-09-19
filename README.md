@@ -51,9 +51,10 @@ The website contains Quran radio stations, including:
 
 <p align="center">
   <a href="https://teamm0haned.github.io/QuranRadio/">
-    <img src="https://img.shields.io/badge/من%20هنا-راديو%20القرآن-blue?style=for-the-badge" />
+    <span style="font-size:30px;">من هنا</span>
   </a>
 </p>
+
 
 ---
 
@@ -89,6 +90,7 @@ The website contains Quran radio stations, including:
 ---
 
 - <b>برمجة وتطوير:</b> <a href="https://teammohaned.icu/" target="_blank">Team Mohaned</a>
+
 
 
 
