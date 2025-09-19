@@ -48,13 +48,11 @@ The website contains Quran radio stations, including:
 
 ### ▶️ تشغيل المشروع | Run the Project
 
-
 <p align="center">
   <a href="https://teamm0haned.github.io/QuranRadio/">
     <h1>من هنا</h1>
   </a>
 </p>
-
 
 ---
 
@@ -90,6 +88,7 @@ The website contains Quran radio stations, including:
 ---
 
 - <b>برمجة وتطوير:</b> <a href="https://teammohaned.icu/" target="_blank">Team Mohaned</a>
+
 
 
 
